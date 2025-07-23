@@ -41,6 +41,9 @@ This project was developed as part of a portfolio assignment to demonstrate prof
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 000311" src="https://github.com/user-attachments/assets/e6e74c2f-1a08-43c5-b71b-4666c8f60acf" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 001216" src="https://github.com/user-attachments/assets/cff15449-5d5d-45dc-b8bf-a218aff61cc5" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 001415" src="https://github.com/user-attachments/assets/67cbf781-9e63-42a9-95ab-91adaa614147" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 004242" src="https://github.com/user-attachments/assets/04c2270a-d608-4e01-8483-2a32dbc87138" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-23 004337" src="https://github.com/user-attachments/assets/28eaee8a-a36e-4411-ac4a-bf85b9a43c2e" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-23 003600" src="https://github.com/user-attachments/assets/7c1b7d43-08e4-43e4-b03a-ece18f4d65ed" />
 
